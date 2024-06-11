@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**j40nz1n/j40nz1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Ursino
 
-Here are some ideas to get you started:
+-Estou estudando no [Alura](www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+## Você pode entrar em contato comigo 📫
+gjoaooctavio@gmail.com
+
+@joao.ursino.06
+
+![](https://gifdb.com/images/high/goku-thumbs-up-5r8q4qe80h4649ot.gif)
